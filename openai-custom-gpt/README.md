@@ -18,17 +18,17 @@ Use Cases:
 - Interview preparation for finance roles
 
 Screenshots:
-![Overview](images/finance-o2c-erp_1_overview.jpeg)
+![Overview](finance-o2c-erp_1_overview.jpeg)
 
-![Order Flow](images/finance-o2c-erp_2_order-flow.jpeg)
+![Order Flow](finance-o2c-erp_2_order-flow.jpeg)
 
-![Orders](images/finance-o2c-erp_3_orders.jpeg)
+![Orders](finance-o2c-erp_3_orders.jpeg)
 
-![Concept](images/finance-o2c-erp_4_concept.jpeg)
+![Concept](finance-o2c-erp_4_concept.jpeg)
 
-![Invoice Method](images/finance-o2c-erp_5_invoice-method.jpeg)
+![Invoice Method](finance-o2c-erp_5_invoice-method.jpeg)
 
-![Payment & Collection](images/finance-o2c-erp_6_payment-collection.jpeg)
+![Payment & Collection](finance-o2c-erp_6_payment-collection.jpeg)
 ---
 
  🔹 2. Fusion – Oracle Financial Architect
@@ -45,19 +45,19 @@ Use Cases:
 - Advanced interview preparation
 
 Screenshots:
-![Overview](images/fusion-architect_1_overview.jpeg)
+![Overview](fusion-architect_1_overview.jpeg)
 
-![Architecture](images/fusion-architect_2_architecture.jpeg)
+![Architecture](fusion-architect_2_architecture.jpeg)
 
-![Integration](images/fusion-architect_3_integration.jpeg)
+![Integration](fusion-architect_3_integration.jpeg)
 
-![SLA](images/fusion-architect_4_sla.jpeg)
+![SLA](fusion-architect_4_sla.jpeg)
 
-![Module Flow](images/fusion-architect_5_module-flow.jpeg)
+![Module Flow](fusion-architect_5_module-flow.jpeg)
 
-![Shared Components](images/fusion-architect_6_shared-components.jpeg)
+![Shared Components](fusion-architect_6_shared-components.jpeg)
 
-![Setup](images/fusion-architect_7_setup.jpeg)
+![Setup](fusion-architect_7_setup.jpeg)
 ---
 
  🔹 3. Oracle EBS – Accounts Payable Assistant
@@ -75,19 +75,19 @@ Use Cases:
 
  Screenshots
 
-![Overview](images/ebs-ap_1_overview.jpeg)
+![Overview](ebs-ap_1_overview.jpeg)
 
-![Calculate Tax](images/ebs-ap_2_calculate-tax.jpeg)
+![Calculate Tax](ebs-ap_2_calculate-tax.jpeg)
 
-![Supplier Setup](images/ebs-ap_3_supplier-setup.jpeg)
+![Supplier Setup](ebs-ap_3_supplier-setup.jpeg)
 
-![Line Level Setup](images/ebs-ap_4_line-level.jpeg)
+![Line Level Setup](ebs-ap_4_line-level.jpeg)
 
-![Tax Configuration](images/ebs-ap_5_tax-config.jpeg)
+![Tax Configuration](ebs-ap_5_tax-config.jpeg)
 
-![Validation](images/ebs-ap_6_validation.jpeg)
+![Validation](ebs-ap_6_validation.jpeg)
 
-![Final Check](images/ebs-ap_7_final-check.jpeg)
+![Final Check](ebs-ap_7_final-check.jpeg)
 
 ---
   Key Highlights
