@@ -43,8 +43,20 @@ The copilot assists in handling finance-related queries, journal entries, invoic
 - AI Prompt Engineering
 - Oracle EBS (AP & SLA Knowledge)
 
----
-
  Notes
 
 This copilot was developed as part of an AI Finance Automation portfolio project.
+
+ Screenshots
+
+![Overview](copilot_overview_1.jpeg)
+
+![Test](copilot_Test_1.jpeg)
+![Test](copilot_Test_2.jpeg)
+![Test](copilot_Test_3.jpeg)
+
+![Instructions](copilot_Instruction_1.jpeg)
+![Instructions](copilot_Instruction_2.jpeg)
+![Instructions](copilot_Instruction_3.jpeg)
+![Instructions](copilot_Instruction_4.jpeg)
+
