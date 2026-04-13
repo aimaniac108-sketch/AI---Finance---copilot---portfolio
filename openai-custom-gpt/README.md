@@ -18,9 +18,17 @@ Use Cases:
 - Interview preparation for finance roles
 
 Screenshots:
-![Overview](o2c_overview.png)  
-![Test Result](o2c_test.png)
+![Overview](images/finance-o2c-erp_1_overview.jpeg)
 
+![Order Flow](images/finance-o2c-erp_2_order-flow.jpeg)
+
+![Orders](images/finance-o2c-erp_3_orders.jpeg)
+
+![Concept](images/finance-o2c-erp_4_concept.jpeg)
+
+![Invoice Method](images/finance-o2c-erp_5_invoice-method.jpeg)
+
+![Payment & Collection](images/finance-o2c-erp_6_payment-collection.jpeg)
 ---
 
  🔹 2. Fusion – Oracle Financial Architect
@@ -37,9 +45,19 @@ Use Cases:
 - Advanced interview preparation
 
 Screenshots:
-![Overview](fusion_overview.png)  
-![Test Result](fusion_test.png)
+![Overview](images/fusion-architect_1_overview.jpeg)
 
+![Architecture](images/fusion-architect_2_architecture.jpeg)
+
+![Integration](images/fusion-architect_3_integration.jpeg)
+
+![SLA](images/fusion-architect_4_sla.jpeg)
+
+![Module Flow](images/fusion-architect_5_module-flow.jpeg)
+
+![Shared Components](images/fusion-architect_6_shared-components.jpeg)
+
+![Setup](images/fusion-architect_7_setup.jpeg)
 ---
 
  🔹 3. Oracle EBS – Accounts Payable Assistant
@@ -55,9 +73,21 @@ Use Cases:
 - Invoice issue troubleshooting
 - Practical ERP workflow learning
 
-Screenshots:
-![Overview](ap_overview.png)  
-![Test Result](ap_test.png)
+ Screenshots
+
+![Overview](images/ebs-ap_1_overview.jpeg)
+
+![Calculate Tax](images/ebs-ap_2_calculate-tax.jpeg)
+
+![Supplier Setup](images/ebs-ap_3_supplier-setup.jpeg)
+
+![Line Level Setup](images/ebs-ap_4_line-level.jpeg)
+
+![Tax Configuration](images/ebs-ap_5_tax-config.jpeg)
+
+![Validation](images/ebs-ap_6_validation.jpeg)
+
+![Final Check](images/ebs-ap_7_final-check.jpeg)
 
 ---
   Key Highlights
