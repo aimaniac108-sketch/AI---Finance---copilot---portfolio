@@ -2,7 +2,7 @@ P2P Advisor Agent (CrewAI)
 
 Overview
 
-Multi-agent AI system designed for Procure-to-Pay (P2P) automation.
+Prototype multi-agent workflow designed to demonstrate Procure-to-Pay (P2P) automation concepts.
 
 Agents
 
@@ -23,6 +23,7 @@ Action: Proceed with payment
 
 Skills
 
-- Multi-agent systems
-- Finance automation
-- AI decision-making
+- Multi-agent workflow design
+- P2P automation concepts
+- Invoice validation logic
+- AI-assisted decision processes
